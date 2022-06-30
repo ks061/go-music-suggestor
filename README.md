@@ -1,3 +1,5 @@
+I created a basic music suggestor in the Go programming language. A brief video walkthrough of the codebase can be found on YouTube here: https://www.youtube.com/watch?v=zqocPQ29M_w.
+
 1. **Report uploaded on Moodle and can be accessed in the `main.go` file.**
 
 <hr/>
